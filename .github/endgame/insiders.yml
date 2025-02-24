@@ -1,6 +1,17 @@
 {
-  insidersLabel: "insiders",
-  insidersColor: "006b75",
-  action: "add",
-  perform: true,
+  (
+  [
+  "
+  @root
+  "insidersLabel:Meta.tag",|
+  
+  " InsidersColor: 🔵 ",
+ 
+  "Enforce.Perform.Actions:Auto.Delete",
+
+"Start_Perform_Creation.Of.Delete-Ruleset
+§
+"Enforce.Delete.Ruleset = True"
+)
+]
 }
